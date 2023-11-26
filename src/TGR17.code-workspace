@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Documents/PlatformIO/Projects/TGR17"
+		},
+		{
+			"path": "../../../tgr2023_05_camera"
+		},
+		{
+			"name": "tgr2023_07_vision",
+			"path": ".."
+		},
+		{
+			"name": "tgr2023_06_imglabel",
+			"path": "../../../tgr2023_06_imglabel/tgr2023_06_imglabel"
+		}
+	],
+	"settings": {}
+}
